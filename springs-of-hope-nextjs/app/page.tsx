@@ -18,7 +18,7 @@ export default function HomePage() {
             </h1>
             <p>
               Springs of Hope Care Services delivers person-centred in-home and community
-              support across the Kimberley, helping participants and families move forward
+              support across the Kimberleyand Perth Metro, helping participants and families move forward
               with confidence, dignity, and the right support around them.
             </p>
             <div className="hero-actions">
