@@ -37,7 +37,7 @@ export default function HomePage() {
           </div>
           <div className="hero-card">
             <Image
-              src="/logo.jpg"
+              src="/Raised hands.jpeg"
               alt="Springs of Hope logo"
               width={900}
               height={900}
