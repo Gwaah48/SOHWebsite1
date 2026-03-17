@@ -31,7 +31,7 @@ export default function HomePage() {
             </div>
             <div className="stat-row">
               <div className="stat-card">Registered NDIS Provider</div>
-              <div className="stat-card">Offices in Kununurra, Halls Creek and Fitzroy Crossing</div>
+              <div className="stat-card">Offices in Kununurra, Halls Creek, Fitzroy Crossing and Perth Metro</div>
               <div className="stat-card">Registration Number: {site.registrationNumber}</div>
             </div>
           </div>
