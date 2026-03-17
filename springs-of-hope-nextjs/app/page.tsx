@@ -18,7 +18,7 @@ export default function HomePage() {
             </h1>
             <p>
               Springs of Hope Care Services delivers person-centred in-home and community
-              support across the Kimberleyand Perth Metro, helping participants and families move forward
+              support across the Kimberleys and Perth, helping participants and families move forward
               with confidence, dignity, and the right support around them.
             </p>
             <div className="hero-actions">
@@ -31,7 +31,7 @@ export default function HomePage() {
             </div>
             <div className="stat-row">
               <div className="stat-card">Registered NDIS Provider</div>
-              <div className="stat-card">Offices in Kununurra, Halls Creek, Fitzroy Crossing and Perth Metro</div>
+              <div className="stat-card">Operations in Kununurra, Halls Creek, Fitzroy Crossing and Perth</div>
               <div className="stat-card">Registration Number: {site.registrationNumber}</div>
             </div>
           </div>
