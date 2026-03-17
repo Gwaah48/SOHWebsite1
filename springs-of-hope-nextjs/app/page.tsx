@@ -65,7 +65,7 @@ export default function HomePage() {
             </div>
           </div>
           <Image
-            src="/logo.jpg"
+            src="/Home.jpeg"
             alt="Springs of Hope brand identity"
             width={900}
             height={900}
